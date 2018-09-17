@@ -1,0 +1,1 @@
+Adding new functionality for fun. This is now my DOM playground. This might end up not really being a task list but more of a mess of features like new skins and random sorting types of features.
